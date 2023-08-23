@@ -1,4 +1,4 @@
-package static_project;
+package practice;
 
 public class Sample {
 
